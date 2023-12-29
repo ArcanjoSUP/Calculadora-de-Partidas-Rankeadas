@@ -1,4 +1,5 @@
 // Glória a Deus e a Jesus Cristo
+//oi
 
 function calcularRank(vitorias, derrotas) {
     let saldoVitorias = vitorias - derrotas;
